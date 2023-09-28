@@ -1,16 +1,23 @@
-### Hi there 👋
+# Nombre del Proyecto
 
-<!--
-**Juan-M-Loaiza/juan-m-loaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Breve descripción o introducción al proyecto.
 
-Here are some ideas to get you started:
+## Tabla de Contenidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Demostración](#demostración)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Demostración
+
+Aquí puedes incluir capturas de pantalla, gifs o enlaces a la demostración del proyecto.
+
+## Instalación
+
+Proporciona instrucciones sobre cómo instalar y configurar el proyecto.
+
+```bash
+comandos de instalación
+
