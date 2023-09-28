@@ -2,12 +2,9 @@
 
 
 ## Quién soy?
+Soy Desarrollador Full Stack, me divierto creando en el lado del back-end como el front-end.
 
-- [Demostración](#demostración)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+Desde los 17 años, he estado inmerso en el mundo de la programación, encontrando en ella una verdadera pasión. Me entusiasma enfrentar desafíos y crear soluciones innovadoras a través del código.  
 
 ## Demostración
 
