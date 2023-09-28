@@ -1,8 +1,7 @@
-# Nombre del Proyecto
+# Hola! Mi nombre es Juan Manuel!
 
-Breve descripción o introducción al proyecto.
 
-## Tabla de Contenidos
+## Quién soy?
 
 - [Demostración](#demostración)
 - [Instalación](#instalación)
