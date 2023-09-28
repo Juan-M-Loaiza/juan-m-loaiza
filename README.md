@@ -11,10 +11,15 @@ Desde los 17 años, he estado inmerso en el mundo de la programación, encontran
 Actualmente laboro con una empresa dedica a la fabricación y comercialización de productos electrónicos y digitales, en mis tiempos libres hago proyectos web propios
 y aprendo nuevas tecnologías, nunca está mal querér aprender algo nuevo ;)
 
-## Instalación
+## Qué tecnologías uso?
 
-Proporciona instrucciones sobre cómo instalar y configurar el proyecto.
+- JavaScript
+- PHP
+- Node
+- React
+- Express
+- SQL
+- Mongo DB
 
-```bash
-comandos de instalación
+
 
