@@ -25,5 +25,6 @@ y aprendo nuevas tecnologías, nunca está mal querér aprender algo nuevo ;)
 
 Y juntos podremos lograr un excelente objetivo tech! 
 
-[LinkedIn](www.linkedin.com/in/juan-orrego-630167269)
+- [LinkedIn](www.linkedin.com/in/juan-orrego-630167269)
+- Correo: juanm.orregoloaiza@gmail.com
 
