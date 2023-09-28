@@ -24,5 +24,5 @@ y aprendo nuevas tecnologías, nunca está mal querér aprender algo nuevo ;)
 ## Contáctme!
 
 Y juntos podremos lograr un excelente objetivo tech! 
-[a novel](https://en.wikipedia.org/wiki/The_Milagro_Beanfield_War_%28novel%29)
+[LinkedIn](www.linkedin.com/in/juan-orrego-630167269)
 
